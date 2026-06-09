@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Devansh Kolhe 👋
 
-<!--
-**devanshkolhe14/devanshkolhe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Developer from Mumbai, India, focused on building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Git & GitHub
+
+## 🌟 Featured Projects
+
+### 🧳 Travique Travel Website
+A responsive travel website with modern UI design and smooth navigation.
+
+### 🍔 Restaurant Website
+A responsive restaurant website with an attractive design and mobile-friendly layout.
+
+### 💼 Portfolio Website
+My personal portfolio showcasing my skills, projects, and development journey.
+
+## 🌱 Currently Learning
+
+- Advanced React.js
+- Frontend Performance Optimization
+- Modern UI/UX Design
+- API Integration
+
+## 📫 Connect With Me
+
+- 📍 Mumbai, India
+- 📧 devanshkolhe95@gmail.com
+- 🌐 Portfolio: devanshkolheportfolio.netlify.app
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into interactive and user-friendly web experiences.
